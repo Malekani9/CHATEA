@@ -1,0 +1,13 @@
+{
+  "lint": {
+    "rules": {
+      "include": ["recommended", "jsx"]
+    }
+  },
+  "fmt": {
+    "options": {
+      "useTabs": false,
+      "lineWidth": 80
+    }
+  }
+}
